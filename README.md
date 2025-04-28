@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-grid-fetch-data-5B9ajCNUDM)
-- Live Site URL: [Add live site URL here](https://time-tracking-dashboard-eight-roan.vercel.app/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-gM3JiNDaqh)
+- Live Site URL: [Add live site URL here](https://tip-calculator-zeta-one.vercel.app/)
 
 ## My process
 
